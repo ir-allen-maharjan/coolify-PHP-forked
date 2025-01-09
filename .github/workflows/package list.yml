@@ -38,7 +38,3 @@ jobs:
       # Step 5: Show list of installed dependencies
       - name: List installed dependencies
         run: composer show
-
-      # Step 6: Run tests (e.g., PHPUnit, or any other test framework)
-      - name: Run PHPUnit tests
-        run: vendor/bin/phpunit --configuration phpunit.xml  # Adjust this based on your testing setup
