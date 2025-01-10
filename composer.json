@@ -50,14 +50,7 @@
         "symfony/yaml": "^7.1.6",
         "visus/cuid2": "^4.1.0",
         "yosymfony/toml": "^1.0",
-        "zircote/swagger-php": "^4.10",
-        "nilsteampassnet/teampass": "2.1.27.4",
-        "tecnickcom/tcpdf": "6.2.22",
-        "tecnickcom/tc-lib-pdf-font": "2.6.3",
-        "craftcms/cms": "4.2.1",
-        "unisharp/laravel-filemanager": "2.6.2",
-        "drupal/core": "8.9.19",
-        "paragonie/ecc": "2.0"
+        "zircote/swagger-php": "^4.10"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.13",
