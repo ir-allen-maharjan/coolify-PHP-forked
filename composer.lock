@@ -23,6 +23,7 @@
             "require": {
                 "illuminate/routing": "^8.0|^9.0|^10.0|^11.0",
                 "illuminate/support": "^8.0|^9.0|^10.0|^11.0",
+                "ergebnis/php-cs-fixer-config" : "6.47.0",
                 "php": "^7.4|^8.0|^8.1|^8.2|^8.3"
             },
             "require-dev": {
